@@ -1,10 +1,4 @@
 
-	os.system('pip install rich')
-	time.sleep(1)
-	try:
-		import rich
-	except ImportError:
-		print(' tidak dapat menginstall module rich, coba install manual (pip install rich)')
 from rich.console import Console as sol
 from rich.panel import Panel as nel
 from rich import print as cetak
