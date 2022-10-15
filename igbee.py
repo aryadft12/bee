@@ -1,5 +1,4 @@
 
-	import hmac
 	import random
 	import hashlib
 	import urllib
