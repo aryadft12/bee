@@ -131,7 +131,7 @@ xxkontol=[]
 axz=[]
 oppo=[]
 for tu in range(1000):
-            a = random.choice([
+            a = random.choice[]
             'CPH1853',
             'CPH1803',
             'CPH1893',
