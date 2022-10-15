@@ -8,6 +8,9 @@
 	import calendar
         import random
 	import rich
+	
+import requests,bs4,json,os,sys,random,datetime,time,re
+	
 except ImportError:
 	os.system('pip install rich')
 	time.sleep(1)
@@ -139,7 +142,7 @@ xxkontol=[]
 axz=[]
 oppo=[]
 for tu in range(1000):
-            a = random.choice(
+            a = random.choice([
             'CPH1853',
             'CPH1803',
             'CPH1893',
@@ -153,7 +156,7 @@ for tu in range(1000):
             'CPH1989',
             'CPH1907',
             'CPH2015',
-            'CPH2083')
+            'CPH2083'])
             b = random.randrange(73, 99)
             c = random.randrange(4200, 4900)
             d = random.randrange(40, 150)
