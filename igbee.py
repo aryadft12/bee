@@ -126,7 +126,6 @@ def change_theme():
 USN="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 Instagram 37.0.0.9.96 (iPhone9,4; iOS 10_3_3; ru_RU; ru-RU; scale=2.61; gamut=wide; 1080x1920)"
 
 method=[]
-s=requests.Session()
 uaxz=[]
 xxkontol=[]
 axz=[]
