@@ -1,3 +1,4 @@
+   import random
 
 from rich.console import Console as sol
 from rich.panel import Panel as nel
