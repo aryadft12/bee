@@ -1,4 +1,12 @@
-try:
+	import json
+	import uuid
+	import hmac
+	import random
+	import hashlib
+	import urllib
+	import urllib.request
+	import calendar
+        import random
 	import rich
 except ImportError:
 	os.system('pip install rich')
