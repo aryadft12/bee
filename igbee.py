@@ -1,7 +1,4 @@
 
-import requests,bs4,json,os,sys,random,datetime,time,re
-	
-except ImportError:
 	os.system('pip install rich')
 	time.sleep(1)
 	try:
