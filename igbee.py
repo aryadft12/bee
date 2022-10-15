@@ -1,5 +1,4 @@
 
-	import uuid
 	import hmac
 	import random
 	import hashlib
