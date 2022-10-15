@@ -1,5 +1,5 @@
 import os
-print("@Herowenn")
+print("@Aryadft.08")
 print("∞"*60)
 print("Installing >>>>>>>>>>>>>>>")
 os.system('pip install requests')
